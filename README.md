@@ -1,1 +1,1 @@
-projeto referente a uma página  com dados pessoais como um curriculum
+projeto referente a uma página  com dados pessoais como um currículo
